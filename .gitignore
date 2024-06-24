@@ -1,2 +1,4 @@
 venv/
 fine-tuned-bert/model.safetensors
+fine-tuned-bert/model.safetensors
+venv/
